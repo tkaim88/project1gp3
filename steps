@@ -1,0 +1,12 @@
+Create a folder
+git init
+git status
+git add .
+git commit -m "initial commit"
+git remote origin main
+git log
+git branch
+git push
+git pull
+git clone {ssh}
+
